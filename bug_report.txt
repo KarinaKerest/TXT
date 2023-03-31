@@ -1,23 +1,26 @@
-Reporter: me
-Title: Unable to login
-
-Description: I am unable to login to the application using my correct credentials. After entering my username and password, the login page just reloads without any error message or indication that I have logged in. This issue is occurring consistently and preventing me from using the application.
-
-Steps to reproduce:
-
-Navigate to the login page
-Enter username and password
-Click on the login button
-Page reloads without logging me in
-Expected result: After entering my correct credentials and clicking on the login button, I should be taken to the main page of the application and be logged in.
-
-Actual result: The page just reloads without logging me in, with no error message or indication that I have logged in.
-
-Priority: High
-Severity: Critical
-Assigned: you
-Environment:
-Attachment: none
-Browser: Chrome
-Operating system: Windows 10
-Device: Desktop
+							
+	ID: 0016
+	Project: Capital.com
+	Date Submitted: 2/12/2023		
+	Last Update: 2/13/2023		
+	Reporter: @KeriKerest					
+	Assigned to: Team lead					
+	Priority: Low	
+	Severity: Minor	
+	Reproducibility: Always	
+	Satus: New	
+	Resolution: Open			
+	Platform: Google Chrome (109.0.5414.120)	
+	OS: Windows 10 Pro	
+	OS Version: (10.0.19044.2486)	
+	Summary: The button to register with "google account" is not displayed on the registration form.					
+	Description: When you want  "Add to favourite" on the https://capital.com/btc-usd-chart.					
+	Preconditions: 1. The page https://capital.com/btc-usd-chart is opened.					
+	Steps to reproduce:
+	1. Click on the button"Add to favourite";
+	2. "Sing up" form is opened.					
+	Actual result: The icon "google account" not showing on the button. "					
+	Expected result: The icon "google account" should be displayed on the button.					
+	Additional Information: AddBlocker is blocked this icon.					
+	Attached Files:	video, screenshot.			
+				
