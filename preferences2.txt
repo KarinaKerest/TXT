@@ -1,0 +1,5 @@
+favorite_movie: The Godfather,
+favorite_series: Breaking Bad,
+favorite_food: Pizza,
+favorite_season": Autumn,
+place_to_visit: Japan.
